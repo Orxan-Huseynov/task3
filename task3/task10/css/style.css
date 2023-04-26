@@ -1,0 +1,38 @@
+.border1{
+    height: 100%;
+    width: 100%;
+    border: 2px dashed red;
+    text-align: center;
+    font-size: x-large;
+}
+.border2{
+    border: 30px solid red;
+    padding: 10px;
+    position: relative;
+    margin: 10px;
+    
+    height: 100%;
+    
+}
+.border2::before{
+    
+    position: absolute;
+    top: -30px;
+    left: 10px;
+   
+    
+    
+}
+
+
+.p1{
+    margin-top: -40px;
+}
+.p2{
+    border-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.border3{
+    border: 1px dashed red;
+}

@@ -1,0 +1,40 @@
+h1{
+    color: blueviolet;
+}
+.highlight1{
+    color: red;
+}
+.highlight12{
+    color: red;
+}
+.highlight13{
+    color: gold;
+    font-style: italic;
+}
+.h21{
+    color: darkblue;
+}
+.h22{
+    color: green;
+}
+.highlight2{
+    color: goldenrod;
+    font-style: italic;
+}
+.h23{
+    color: green;
+
+}
+.highlight3{
+    color: red;
+}
+.highlight31{
+    background-color: yellow;
+}
+.highlight32{
+    color: goldenrod;
+    font-style: italic;
+}
+p{
+    text-align: justify;
+}
